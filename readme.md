@@ -5,3 +5,17 @@
 * 浏览器端渲染
   
 以上功能**非常不**完善，这只是一个基础的MVVM框架，用来大致了解Vue的实现机制与特性；
+
+### 使用
+* 安装依赖
+```git
+npm install 
+```
+* 示例
+```git
+npm run start
+```
+* 构建
+```git
+npm run build
+```
